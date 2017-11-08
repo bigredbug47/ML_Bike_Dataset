@@ -5,9 +5,8 @@ The drive has 2 dataset:
 
 Bike Dataset for training data in Machine Learning (Updated in 2017)
 The dataset has:
-+ 80 types of bike.
-+ 10 images each type.
-+ Total 1000 image.
++ 83 types of bike.
++ Total 1126 images.
 The price tag is in .xls file.
 
 
